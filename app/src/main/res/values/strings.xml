@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">P04 Problem Statement</string>
+    <string name="hintname">Full Name</string>
+    <string name="lblname">Name: </string>
+    <string name="lblnumber">Mobile: </string>
+    <string name="hintnumber">+65</string>
+    <string name="lblsize">Size of Group: </string>
+    <string name="hintsize">Number of People</string>
+    <string name="smokingarea">Smoking Area</string>
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+</resources>
